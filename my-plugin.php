@@ -12,4 +12,4 @@
  * @package         My_Plugin
  */
 
-// Your code starts here.
+include( plugin_dir_path( __FILE__ ) . 'blocks/my-block.php' );
